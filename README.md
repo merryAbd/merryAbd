@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola este es mi primer Portafolio como Consultora de Negocios en Tecnologia.
 
 <!--
 **merryAbd/merryAbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
