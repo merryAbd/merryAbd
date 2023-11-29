@@ -1,6 +1,7 @@
 ### Hola este es mi primer Portafolio como Consultora de Negocios en Tecnologia.
 
-<!--
+![image](https://github.com/merryAbd/merryAbd/assets/82823802/cc4f5e87-9552-4e31-9441-3c90ddaa1db3)
+
 **merryAbd/merryAbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
